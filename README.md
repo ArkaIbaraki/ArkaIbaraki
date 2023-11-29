@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/NVIDIA_GeForce-MX330-green?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username={NIxNref}&theme={tokyonight}'>
+</p>
 
 
 <details>
@@ -48,12 +51,13 @@
 
 **🌱 I’m currently learning ...**
 <p align='center'>
-  <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
   <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  
 </p>
 
 
