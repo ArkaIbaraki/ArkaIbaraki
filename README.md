@@ -32,9 +32,8 @@
   <img src="https://img.shields.io/badge/NVIDIA_GeForce-MX330-green?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username={NIxNref}&theme={tokyonight}'>
-</p>
+
+![NIxNref GitHub stats](https://github-readme-stats.vercel.app/api?username=NIxNref&show_icons=true&theme=radical)
 
 
 <details>
