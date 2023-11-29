@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Saya hanya seorang programer mobile pemula :)
+  Saya hanya seorang programer pemula :)
 </p>
 
 
