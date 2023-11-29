@@ -24,7 +24,7 @@
 
 <p align='center'>
   Device yang saya gunakan<br/><br/>
-  <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>p
+  <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
@@ -44,10 +44,12 @@
 📆 2022 - now\
 📍 **SMK Taruna Bhakti** - Depok, Jabar
 
+## Skills
+
 <p align='center'>
   🌱 I’m currently learning ...
   <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  
+  <img align="right" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   
 </p>
 
