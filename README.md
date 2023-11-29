@@ -88,15 +88,6 @@
 -->
 
 </details>
-
-<details>
-  <summary>🚀 Frameworks & Library</summary>
-
-  **Frameworks yang pernah saya gunakan**
-
-  
-  
-</details>
   
 
 <!--
