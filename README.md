@@ -33,7 +33,6 @@
 </p>
 
 
-![NIxNref Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIxNref&theme=tokyonight)
 
 
 <details>
