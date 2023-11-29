@@ -45,6 +45,8 @@
   - 📖 **Sekolah**\
   📆 2022 - now\
   📍 **SMK Taruna Bhakti** - Depok, Jabar
+
+  ## Skills
   
   **🌱 I’m currently learning ...**
   <p align='center'>
@@ -90,9 +92,21 @@
 <details>
   <summary>🚀 Frameworks & Library</summary>
 
+  **Framework dan library yang pernah saya gunakan**
+
+<p align='center'>
   <img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white'>
-  
-  
+  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+  <img src='https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white'>
+  <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white'>
+  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
+  <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
+  <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
+  <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
+  <img src='https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white'>
+</p>
+
+
 </details>
   
 
