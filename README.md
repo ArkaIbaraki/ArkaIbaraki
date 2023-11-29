@@ -46,8 +46,6 @@
   📆 2022 - now\
   📍 **SMK Taruna Bhakti** - Depok, Jabar
   
-  ## Skills
-  
   **🌱 I’m currently learning ...**
   <p align='center'>
     <img align="right" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
