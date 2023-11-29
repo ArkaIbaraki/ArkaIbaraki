@@ -33,7 +33,7 @@
 </p>
 
 
-![NIxNref GitHub stats](https://github-readme-stats.vercel.app/api?username=NIxNref&show_icons=true&theme=radical)
+![NIxNref Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIxNref&theme=tokyonight)
 
 
 <details>
