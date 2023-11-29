@@ -12,10 +12,10 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/panjinugroho004">
+  <a href="https://www.linkedin.com/in/panjinugroho004" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim](https://www.instagram.com/panjin_40407/">
+  <a href="https://www.instagram.com/panjin_40407/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
