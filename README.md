@@ -21,15 +21,14 @@
   
 </p>
 
-
 <p align='center'>
   Device yang saya gunakan<br/><br/>
-  <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-20%20GB-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_GeForce-MX330-green?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" style="pointer-events: none;"/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/RAM-20%20GB-blue?style=for-the-badge&logoColor=white" style="pointer-events: none;" />
+  <img src="https://img.shields.io/badge/NVIDIA_GeForce-MX330-green?style=for-the-badge&logo=nvidia&logoColor=white" style="pointer-events: none;" />
 </p>
 
 <p align="center">
@@ -53,12 +52,12 @@
   
   **🌱 I’m currently learning ...**
   <p align='center'>
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" style="pointer-events: none;"/> 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="pointer-events: none;"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="pointer-events: none;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="pointer-events: none;"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="pointer-events: none;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="pointer-events: none;"/>
     
   </p>
   
@@ -98,15 +97,15 @@
   **Framework dan library yang pernah saya gunakan**
 
 <p align='center'>
-  <img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white'>
-  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
-  <img src='https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white'>
-  <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white'>
-  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
-  <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
-  <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
-  <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
-  <img src='https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white'>
+  <img src='https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white' style="pointer-events: none;">
+  <img src='https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white' style="pointer-events: none;">
 </p>
 
 
