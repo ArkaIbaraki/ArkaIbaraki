@@ -39,17 +39,11 @@
   </a>
 </p>
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIxNref&theme=dark"/>
-  
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=NIxNref&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIxNref&theme=dark"/>
 
 
 
 ## Education
-  
-  - 📖 **Sekolah**\
   📆 2022 - now\
   📍 **SMK Taruna Bhakti** - Depok, Jabar
 
