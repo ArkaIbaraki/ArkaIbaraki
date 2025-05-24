@@ -44,7 +44,7 @@
 
 
 ## Education
-  📆 2022 - now\
+  📆 2022 - 2025\
   📍 **SMK Taruna Bhakti** - Depok, Jabar
 
 
