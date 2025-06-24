@@ -26,7 +26,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,cs,dart,github,git,mysql,npm,php,py,supabase&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,github,git,mysql,npm,php,py&theme=dark&perline=7" />
   </a>
 </p>
 <br>
@@ -35,7 +35,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,laravel,nextjs,bootstrap,dotnet&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,laravel,nextjs,bootstrap&theme=dark" />
   </a>
 </p>
 
