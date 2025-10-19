@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hello everyone, my name is Panji Nugroho
+  Hi, I'm Panji Nugroho
 </h1>
 
 <p align='center'>
-  I'm a student at SMK Taruna Bhakti in the Software Engineer program with a strong interest in backend development. I am eager to develop my IT skills and ready to face challenges in the tech world.
+  I am a passionate Backend Developer with expertise in web development and software engineering. With a strong foundation in back-end technologies, I create efficient, scalable, and user-friendly solutions.
 </p>
 
 
