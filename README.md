@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NIxNref&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIxNref&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArkaIbaraki&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkaibaraki&theme=dark"/>
 
 
 
