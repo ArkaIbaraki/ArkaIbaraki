@@ -39,16 +39,17 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArkaIbaraki&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArkaIbaraki&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ArkaIbaraki&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArkaIbaraki&show_icons=true&theme=github_dark)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ArkaIbaraki&theme=github_dark) -->
 
 
 
 ## Education
   📆 2022 - 2025\
   📍 **SMK Taruna Bhakti** - Depok, Jabar
-
+  📆 2022 - Sekarang\
+  📍 **Universitas Bina Sarana Informatika Margonda** - Depok, Jabar
 
 
 <!--
