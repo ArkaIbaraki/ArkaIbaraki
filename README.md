@@ -47,7 +47,7 @@
 
 ## Education
   📆 2022 - 2025\
-  📍 **SMK Taruna Bhakti** - Depok, Jabar\
+  📍 **SMK Taruna Bhakti** - Depok, Jabar
   
   📆 2022 - Sekarang\
   📍 **Universitas Bina Sarana Informatika Margonda** - Depok, Jabar
