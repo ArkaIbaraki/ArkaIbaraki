@@ -43,7 +43,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArkaIbaraki&show_icons=true&theme=github_dark)
 <!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ArkaIbaraki&theme=github_dark) -->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ArkaIbaraki&repo=Pagu.id&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ArkaIbaraki&repo=EtherSay&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=ArkaIbaraki&repo=EtherSay&theme=tokyonight)
 
 
 
